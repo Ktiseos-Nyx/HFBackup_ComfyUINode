@@ -16,7 +16,7 @@ This is a custom node for ComfyUI that allows you to upload models (checkpoints 
 
     ```bash
     cd ComfyUI/custom_nodes
-    git clone <repository_url> # Replace with the URL of your node's repository
+    git clone https://github.com/Ktiseos-Nyx/HFBackup_ComfyUINode
     ```
 
 2. **Install the required Python packages:**
